@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./novumtestamentu09unkngoog_0002.png"; bbox 0 0 2717 4659; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 457 2068 636 2164">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 356 2029 636 2164">
+     <span class='ocr_line' id='line_1_1' title="bbox 457 2068 636 2164; baseline -0.007 -1.721"><span class='ocrx_word' id='word_1_1' title='bbox 457 2068 636 2164; x_wconf 73' lang='lat'>531</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 488 2183 1926 2371">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 488 2183 1926 2371">
+     <span class='ocr_line' id='line_1_2' title="bbox 750 2191 1472 2234; baseline 0.001 -33"><span class='ocrx_word' id='word_1_2' title='bbox 750 2191 787 2234; x_wconf 52' lang='grc' dir='ltr'>α</span> <span class='ocrx_word' id='word_1_3' title='bbox 1465 2199 1472 2202; x_wconf 81' lang='grc'><strong>,</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 488 2183 1926 2371; baseline 0.001 -16"><span class='ocrx_word' id='word_1_4' title='bbox 488 2183 1387 2357; x_wconf 46' lang='grc' dir='ltr'>ἓῙῗῘψΕΟΙΔΟΟτῙΟΑΒ</span> <span class='ocrx_word' id='word_1_5' title='bbox 1465 2289 1926 2371; x_wconf 83' lang='lat' dir='ltr'>SOHOOL</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 489 2379 1001 2490">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 489 2379 1001 2490">
+     <span class='ocr_line' id='line_1_4' title="bbox 489 2379 1001 2490; baseline -0.002 -35"><span class='ocrx_word' id='word_1_6' title='bbox 489 2431 562 2482; x_wconf 60' lang='lat' dir='ltr'>ss.</span> <span class='ocrx_word' id='word_1_7' title='bbox 702 2379 1001 2490; x_wconf 40' lang='lat' dir='ltr'>“JKZ..</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1199 2478 1270 2520">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1199 2478 1270 2520">
+     <span class='ocr_line' id='line_1_5' title="bbox 1199 2478 1270 2520; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 1199 2478 1270 2520; x_wconf 78' lang='lat' dir='ltr'>IN</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 823 2638 1641 2713">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 823 2638 1641 2713">
+     <span class='ocr_line' id='line_1_6' title="bbox 823 2638 1641 2713; baseline 0 -8"><span class='ocrx_word' id='word_1_9' title='bbox 823 2638 1641 2713; x_wconf 78' lang='lat' dir='ltr'><strong>OAMBRIDGE.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 1 2133 3017">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 1 2133 3017">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 1 2133 3017; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 1 2133 3017; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 818 4039 1773 4633">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 818 4039 1773 4633">
+     <span class='ocr_line' id='line_1_8' title="bbox 818 4039 1773 4633; baseline 0 26"><span class='ocrx_word' id='word_1_11' title='bbox 818 4039 1773 4633; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
